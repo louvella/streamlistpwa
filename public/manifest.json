@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "StreamList",
+  "name": "StreamList",
+  "description": "Stream your favorite movies",
   "icons": [
     {
       "src": "favicon.ico",

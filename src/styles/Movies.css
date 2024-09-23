@@ -1,0 +1,20 @@
+.movie-list {
+	ul {
+		list-style-type: none;
+	}
+}
+
+.movie-card {
+	display: flex;
+	border-radius: 12px;
+	margin: 8px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 2px 2px 5px 0px rgba(0,0,0,0.75);
+}
+
+.movie-image {
+	align-self: center;
+	padding: 4px;
+	padding-right: 8px;
+}
